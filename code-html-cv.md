@@ -3,7 +3,7 @@ Voici l'exemple du code HTML, CSS que je pourrai intégrer dans le cv boostrap
 #Centrer l'image du cv
 
     
-    <p style="text-align:center;"><img src="url_de_l'image" alt=""/></p>
+    <p style="text-align:center;border-radius:90px;"><img src="url_de_l'image" alt=""/></p>
 
 
 #Structure des parties du cv
